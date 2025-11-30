@@ -86,16 +86,6 @@
 
 ---
 
-## Запуск проекта
-
-1. Скачать датасет с Kaggle:  
-   https://www.kaggle.com/datasets/datasnaek/youtube-new  
-2. Загрузить архив в Google Colab  
-3. Открыть ноутбук `youtube_music_popularity.ipynb`  
-4. Выполнить все ячейки по порядку  
-
----
-
 ## Файлы репозитория
 
 - `youtube_music_popularity.ipynb` — основной ноутбук  
